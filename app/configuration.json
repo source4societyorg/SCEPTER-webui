@@ -1,0 +1,13 @@
+{
+  "environments": {
+    "test": {
+      "gateway": ""
+    },
+    "development": {
+      "gateway": ""
+    },
+    "production": {
+      "gateway": ""
+    }
+  }
+}

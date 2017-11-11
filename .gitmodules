@@ -1,0 +1,6 @@
+[submodule "app/containers/PrivateRoute"]
+	path = app/containers/PrivateRoute
+	url = https://github.com/source4societyorg/react-authentication-route.git
+[submodule "app/containers/LoginPage"]
+	path = app/containers/LoginPage
+	url = https://github.com/source4societyorg/react-login-page-container.git
